@@ -1,5 +1,0 @@
-Keybinds:
-Play    - [Space]
-Feed    - [Enter]
-Wash    - [w]
-Comfort - [c]
