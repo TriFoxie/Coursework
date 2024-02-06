@@ -14,3 +14,7 @@
 
 ## Uni Stuff:
 Coming Soon<sup>TM</sup>
+
+# Notes:
+ - Any unity projects are built versions because it's more lightweight.
+ - The unity projects caused ASP.NET to be blown out of proportion in the languages display.
