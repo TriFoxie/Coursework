@@ -1,0 +1,28 @@
+C:\Users\Triple\OneDrive - Northampton School for Boys\CS\Battleships\Battleships\bin\Debug\net6.0\Battleships.exe
+C:\Users\Triple\OneDrive - Northampton School for Boys\CS\Battleships\Battleships\bin\Debug\net6.0\Battleships.deps.json
+C:\Users\Triple\OneDrive - Northampton School for Boys\CS\Battleships\Battleships\bin\Debug\net6.0\Battleships.runtimeconfig.json
+C:\Users\Triple\OneDrive - Northampton School for Boys\CS\Battleships\Battleships\bin\Debug\net6.0\Battleships.dll
+C:\Users\Triple\OneDrive - Northampton School for Boys\CS\Battleships\Battleships\bin\Debug\net6.0\Battleships.pdb
+C:\Users\Triple\OneDrive - Northampton School for Boys\CS\Battleships\Battleships\obj\Debug\net6.0\Battleships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Triple\OneDrive - Northampton School for Boys\CS\Battleships\Battleships\obj\Debug\net6.0\Battleships.AssemblyInfoInputs.cache
+C:\Users\Triple\OneDrive - Northampton School for Boys\CS\Battleships\Battleships\obj\Debug\net6.0\Battleships.AssemblyInfo.cs
+C:\Users\Triple\OneDrive - Northampton School for Boys\CS\Battleships\Battleships\obj\Debug\net6.0\Battleships.csproj.CoreCompileInputs.cache
+C:\Users\Triple\OneDrive - Northampton School for Boys\CS\Battleships\Battleships\obj\Debug\net6.0\Battleships.dll
+C:\Users\Triple\OneDrive - Northampton School for Boys\CS\Battleships\Battleships\obj\Debug\net6.0\refint\Battleships.dll
+C:\Users\Triple\OneDrive - Northampton School for Boys\CS\Battleships\Battleships\obj\Debug\net6.0\Battleships.pdb
+C:\Users\Triple\OneDrive - Northampton School for Boys\CS\Battleships\Battleships\obj\Debug\net6.0\Battleships.genruntimeconfig.cache
+C:\Users\Triple\OneDrive - Northampton School for Boys\CS\Battleships\Battleships\obj\Debug\net6.0\ref\Battleships.dll
+D:\Battleships\bin\Debug\net6.0\Battleships.exe
+D:\Battleships\bin\Debug\net6.0\Battleships.deps.json
+D:\Battleships\bin\Debug\net6.0\Battleships.runtimeconfig.json
+D:\Battleships\bin\Debug\net6.0\Battleships.dll
+D:\Battleships\bin\Debug\net6.0\Battleships.pdb
+D:\Battleships\obj\Debug\net6.0\Battleships.GeneratedMSBuildEditorConfig.editorconfig
+D:\Battleships\obj\Debug\net6.0\Battleships.AssemblyInfoInputs.cache
+D:\Battleships\obj\Debug\net6.0\Battleships.AssemblyInfo.cs
+D:\Battleships\obj\Debug\net6.0\Battleships.csproj.CoreCompileInputs.cache
+D:\Battleships\obj\Debug\net6.0\Battleships.dll
+D:\Battleships\obj\Debug\net6.0\refint\Battleships.dll
+D:\Battleships\obj\Debug\net6.0\Battleships.pdb
+D:\Battleships\obj\Debug\net6.0\Battleships.genruntimeconfig.cache
+D:\Battleships\obj\Debug\net6.0\ref\Battleships.dll

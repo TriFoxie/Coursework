@@ -1,0 +1,14 @@
+C:\Users\Triple\OneDrive - Northampton School for Boys\,CS\Projects\OOP Inventory\OOP Inventory\bin\Debug\net6.0\OOP Inventory.exe
+C:\Users\Triple\OneDrive - Northampton School for Boys\,CS\Projects\OOP Inventory\OOP Inventory\bin\Debug\net6.0\OOP Inventory.deps.json
+C:\Users\Triple\OneDrive - Northampton School for Boys\,CS\Projects\OOP Inventory\OOP Inventory\bin\Debug\net6.0\OOP Inventory.runtimeconfig.json
+C:\Users\Triple\OneDrive - Northampton School for Boys\,CS\Projects\OOP Inventory\OOP Inventory\bin\Debug\net6.0\OOP Inventory.dll
+C:\Users\Triple\OneDrive - Northampton School for Boys\,CS\Projects\OOP Inventory\OOP Inventory\bin\Debug\net6.0\OOP Inventory.pdb
+C:\Users\Triple\OneDrive - Northampton School for Boys\,CS\Projects\OOP Inventory\OOP Inventory\obj\Debug\net6.0\OOP Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Triple\OneDrive - Northampton School for Boys\,CS\Projects\OOP Inventory\OOP Inventory\obj\Debug\net6.0\OOP Inventory.AssemblyInfoInputs.cache
+C:\Users\Triple\OneDrive - Northampton School for Boys\,CS\Projects\OOP Inventory\OOP Inventory\obj\Debug\net6.0\OOP Inventory.AssemblyInfo.cs
+C:\Users\Triple\OneDrive - Northampton School for Boys\,CS\Projects\OOP Inventory\OOP Inventory\obj\Debug\net6.0\OOP Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Triple\OneDrive - Northampton School for Boys\,CS\Projects\OOP Inventory\OOP Inventory\obj\Debug\net6.0\OOP Inventory.dll
+C:\Users\Triple\OneDrive - Northampton School for Boys\,CS\Projects\OOP Inventory\OOP Inventory\obj\Debug\net6.0\refint\OOP Inventory.dll
+C:\Users\Triple\OneDrive - Northampton School for Boys\,CS\Projects\OOP Inventory\OOP Inventory\obj\Debug\net6.0\OOP Inventory.pdb
+C:\Users\Triple\OneDrive - Northampton School for Boys\,CS\Projects\OOP Inventory\OOP Inventory\obj\Debug\net6.0\OOP Inventory.genruntimeconfig.cache
+C:\Users\Triple\OneDrive - Northampton School for Boys\,CS\Projects\OOP Inventory\OOP Inventory\obj\Debug\net6.0\ref\OOP Inventory.dll
