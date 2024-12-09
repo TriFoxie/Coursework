@@ -12,9 +12,7 @@
  - [OOP Inventory](https://github.com/TriFoxi/Coursework/tree/main/OOP-Inventory) - C#
  - [Hangman](https://github.com/TriFoxi/Coursework/tree/main/Hangman) - C# - Unity2D
  - [CyberPet](https://github.com/TriFoxi/Coursework/tree/main/CyberPet) - C# - Unity3D - **Coursework**
-
-## Uni Stuff:
-Coming Soon<sup>TM</sup>
+ - EOY Project: [Swords And Bullets](https://github.com/SwordsAndBullets/SAB-Game) & [Database](https://github.com/SwordsAndBullets/SAB-Server) - C#, SQL, PhP, HTML/CSS - Unity3D, Web - **Coursework**
 
 # Notes:
  - Any unity projects are built versions because it's more lightweight.
